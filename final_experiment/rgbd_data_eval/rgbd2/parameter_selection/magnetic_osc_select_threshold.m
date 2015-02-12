@@ -1,13 +1,15 @@
 % select parameters for magnetic osc
 
-x = 1:1:4000;
+x = 1:1:40000;
 
-for sigma = 0.001:0.001:0.008
+for sigma = 0.00006:0.00001:0.00014
   plot(x, exp(-sigma*x)); 
   hold on;
 end
 
+sigma = 0.00006:0.00001:0.00014;
+lstring = strcat({''}, num2str(sigma(:),'%.5f'));
 xlabel('No. of iterations');
 ylabel('Exp(-eps*iteration)');
-legend('0.001','0.002','0.003','0.004','0.005','0.006','0.007','0.008');
+legend(lstring);
 title('Exp(- eps * iter) vs iter, formula: select_threshold * (1-exp(-eps*iter))');
