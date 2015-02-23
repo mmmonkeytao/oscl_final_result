@@ -1,0 +1,608 @@
+../rgbdeval_full/rgbd21_1.dat
+../rgbdeval_full/label_1.dat
+current file:1
+ Time spent for inserting 200 3.99
+Homogeneity is: 1
+Completeness is: 0.700861
+V_measure is: 0.824125
+Number of Clusters: 200
+
+ Time spent for inserting 200 12.5
+Homogeneity is: 1
+Completeness is: 0.633958
+V_measure is: 0.775978
+Number of Clusters: 400
+
+ Time spent for inserting 200 21.205
+Homogeneity is: 1
+Completeness is: 0.594784
+V_measure is: 0.745911
+Number of Clusters: 600
+
+ Time spent for inserting 200 29.745
+Homogeneity is: 1
+Completeness is: 0.570332
+V_measure is: 0.726384
+Number of Clusters: 800
+
+ Time spent for inserting 200 39.91
+Homogeneity is: 1
+Completeness is: 0.552886
+V_measure is: 0.712075
+Number of Clusters: 1000
+
+../rgbdeval_full/rgbd21_2.dat
+../rgbdeval_full/label_2.dat
+current file:2
+ Time spent for inserting 200 49.415
+Homogeneity is: 1
+Completeness is: 0.539648
+V_measure is: 0.701001
+Number of Clusters: 1200
+
+ Time spent for inserting 200 228.825
+Homogeneity is: 0.488859
+Completeness is: 0.547317
+V_measure is: 0.516439
+Number of Clusters: 33
+
+ Time spent for inserting 200 67.265
+Homogeneity is: 0.48461
+Completeness is: 0.54571
+V_measure is: 0.513348
+Number of Clusters: 32
+
+ Time spent for inserting 200 75.625
+Homogeneity is: 0.501916
+Completeness is: 0.529411
+V_measure is: 0.515297
+Number of Clusters: 40
+
+ Time spent for inserting 200 91.955
+Homogeneity is: 0.484886
+Completeness is: 0.52569
+V_measure is: 0.504464
+Number of Clusters: 38
+
+../rgbdeval_full/rgbd21_3.dat
+../rgbdeval_full/label_3.dat
+current file:3
+ Time spent for inserting 200 97.365
+Homogeneity is: 0.519283
+Completeness is: 0.53512
+V_measure is: 0.527083
+Number of Clusters: 44
+
+ Time spent for inserting 200 103.335
+Homogeneity is: 0.522185
+Completeness is: 0.540414
+V_measure is: 0.531143
+Number of Clusters: 45
+
+ Time spent for inserting 200 116.29
+Homogeneity is: 0.520832
+Completeness is: 0.520177
+V_measure is: 0.520505
+Number of Clusters: 52
+
+ Time spent for inserting 200 129.71
+Homogeneity is: 0.546227
+Completeness is: 0.528003
+V_measure is: 0.536961
+Number of Clusters: 56
+
+ Time spent for inserting 200 137.955
+Homogeneity is: 0.563954
+Completeness is: 0.530241
+V_measure is: 0.546578
+Number of Clusters: 65
+
+../rgbdeval_full/rgbd21_4.dat
+../rgbdeval_full/label_4.dat
+current file:4
+ Time spent for inserting 200 157.345
+Homogeneity is: 0.570042
+Completeness is: 0.530127
+V_measure is: 0.54936
+Number of Clusters: 68
+
+ Time spent for inserting 200 164.195
+Homogeneity is: 0.563661
+Completeness is: 0.5342
+V_measure is: 0.548535
+Number of Clusters: 64
+
+ Time spent for inserting 200 182.49
+Homogeneity is: 0.586959
+Completeness is: 0.527345
+V_measure is: 0.555557
+Number of Clusters: 77
+
+ Time spent for inserting 200 209.53
+Homogeneity is: 0.581219
+Completeness is: 0.518326
+V_measure is: 0.547974
+Number of Clusters: 80
+
+ Time spent for inserting 200 219.81
+Homogeneity is: 0.587437
+Completeness is: 0.526931
+V_measure is: 0.555542
+Number of Clusters: 79
+
+../rgbdeval_full/rgbd21_5.dat
+../rgbdeval_full/label_5.dat
+current file:5
+ Time spent for inserting 200 216.04
+Homogeneity is: 0.596457
+Completeness is: 0.52271
+V_measure is: 0.557154
+Number of Clusters: 87
+
+ Time spent for inserting 200 211.87
+Homogeneity is: 0.596712
+Completeness is: 0.52252
+V_measure is: 0.557157
+Number of Clusters: 87
+
+ Time spent for inserting 200 225.445
+Homogeneity is: 0.611222
+Completeness is: 0.525703
+V_measure is: 0.565246
+Number of Clusters: 96
+
+ Time spent for inserting 200 238.45
+Homogeneity is: 0.616182
+Completeness is: 0.521598
+V_measure is: 0.564959
+Number of Clusters: 103
+
+ Time spent for inserting 200 243.625
+Homogeneity is: 0.618201
+Completeness is: 0.528
+V_measure is: 0.569552
+Number of Clusters: 98
+
+../rgbdeval_full/rgbd21_6.dat
+../rgbdeval_full/label_6.dat
+current file:6
+ Time spent for inserting 200 260.15
+Homogeneity is: 0.638996
+Completeness is: 0.52992
+V_measure is: 0.579369
+Number of Clusters: 111
+
+ Time spent for inserting 200 270.795
+Homogeneity is: 0.629716
+Completeness is: 0.523704
+V_measure is: 0.571838
+Number of Clusters: 110
+
+ Time spent for inserting 200 295.545
+Homogeneity is: 0.636258
+Completeness is: 0.525758
+V_measure is: 0.575755
+Number of Clusters: 114
+
+ Time spent for inserting 200 308.575
+Homogeneity is: 0.648207
+Completeness is: 0.521461
+V_measure is: 0.577967
+Number of Clusters: 126
+
+ Time spent for inserting 200 335.55
+Homogeneity is: 0.652327
+Completeness is: 0.523472
+V_measure is: 0.580839
+Number of Clusters: 130
+
+../rgbdeval_full/rgbd21_7.dat
+../rgbdeval_full/label_7.dat
+current file:7
+ Time spent for inserting 200 367.255
+Homogeneity is: 0.647327
+Completeness is: 0.524753
+V_measure is: 0.579631
+Number of Clusters: 123
+
+ Time spent for inserting 200 407.68
+Homogeneity is: 0.654396
+Completeness is: 0.52497
+V_measure is: 0.582582
+Number of Clusters: 131
+
+ Time spent for inserting 200 444.59
+Homogeneity is: 0.667293
+Completeness is: 0.532748
+V_measure is: 0.592478
+Number of Clusters: 133
+
+ Time spent for inserting 200 431.435
+Homogeneity is: 0.667487
+Completeness is: 0.530349
+V_measure is: 0.591067
+Number of Clusters: 136
+
+^[[A Time spent for inserting 200 451.17
+Homogeneity is: 0.674755
+Completeness is: 0.525962
+V_measure is: 0.591139
+Number of Clusters: 147
+
+../rgbdeval_full/rgbd21_8.dat
+../rgbdeval_full/label_8.dat
+current file:8
+ Time spent for inserting 200 445.415
+Homogeneity is: 0.673038
+Completeness is: 0.520787
+V_measure is: 0.587204
+Number of Clusters: 154
+
+ Time spent for inserting 200 562.58
+Homogeneity is: 0.670823
+Completeness is: 0.51721
+V_measure is: 0.584085
+Number of Clusters: 157
+
+ Time spent for inserting 200 662.21
+Homogeneity is: 0.670808
+Completeness is: 0.518036
+V_measure is: 0.584606
+Number of Clusters: 156
+
+ Time spent for inserting 200 716.33
+Homogeneity is: 0.676264
+Completeness is: 0.522611
+V_measure is: 0.589591
+Number of Clusters: 156
+
+ Time spent for inserting 200 772.96
+Homogeneity is: 0.688193
+Completeness is: 0.525923
+V_measure is: 0.596214
+Number of Clusters: 165
+
+../rgbdeval_full/rgbd21_9.dat
+../rgbdeval_full/label_9.dat
+current file:9
+ Time spent for inserting 200 833.335
+Homogeneity is: 0.67051
+Completeness is: 0.514048
+V_measure is: 0.581946
+Number of Clusters: 163
+
+ Time spent for inserting 200 653.835
+Homogeneity is: 0.685097
+Completeness is: 0.520336
+V_measure is: 0.591457
+Number of Clusters: 173
+
+ Time spent for inserting 200 675.155
+Homogeneity is: 0.684143
+Completeness is: 0.518095
+V_measure is: 0.589652
+Number of Clusters: 173
+
+ Time spent for inserting 200 726.25
+Homogeneity is: 0.677525
+Completeness is: 0.517665
+V_measure is: 0.586904
+Number of Clusters: 167
+
+ Time spent for inserting 200 772.39
+Homogeneity is: 0.69139
+Completeness is: 0.519481
+V_measure is: 0.593232
+Number of Clusters: 181
+
+../rgbdeval_full/rgbd21_10.dat
+../rgbdeval_full/label_10.dat
+current file:10
+ Time spent for inserting 200 803.09
+Homogeneity is: 0.696034
+Completeness is: 0.51881
+V_measure is: 0.594495
+Number of Clusters: 188
+
+ Time spent for inserting 200 864.255
+Homogeneity is: 0.703757
+Completeness is: 0.522852
+V_measure is: 0.599964
+Number of Clusters: 190
+
+ Time spent for inserting 200 910.335
+Homogeneity is: 0.703767
+Completeness is: 0.51701
+V_measure is: 0.596103
+Number of Clusters: 201
+
+ Time spent for inserting 200 927.135
+Homogeneity is: 0.704847
+Completeness is: 0.519744
+V_measure is: 0.598306
+Number of Clusters: 201
+
+ Time spent for inserting 200 939.26
+Homogeneity is: 0.708433
+Completeness is: 0.516097
+V_measure is: 0.59716
+Number of Clusters: 210
+
+../rgbdeval_full/rgbd21_11.dat
+../rgbdeval_full/label_11.dat
+current file:11
+ Time spent for inserting 200 956.99
+Homogeneity is: 0.713933
+Completeness is: 0.522877
+V_measure is: 0.603648
+Number of Clusters: 207
+
+ Time spent for inserting 200 973.82
+Homogeneity is: 0.713399
+Completeness is: 0.524545
+V_measure is: 0.604567
+Number of Clusters: 207
+
+ Time spent for inserting 200 1006.85
+Homogeneity is: 0.712349
+Completeness is: 0.523156
+V_measure is: 0.603267
+Number of Clusters: 207
+
+ Time spent for inserting 200 1060.89
+Homogeneity is: 0.719188
+Completeness is: 0.519697
+V_measure is: 0.603381
+Number of Clusters: 223
+
+ Time spent for inserting 200 1131.81
+Homogeneity is: 0.721188
+Completeness is: 0.522906
+V_measure is: 0.606246
+Number of Clusters: 222
+
+../rgbdeval_full/rgbd21_12.dat
+../rgbdeval_full/label_12.dat
+current file:12
+ Time spent for inserting 200 1209.01
+Homogeneity is: 0.724808
+Completeness is: 0.522194
+V_measure is: 0.607041
+Number of Clusters: 225
+
+ Time spent for inserting 200 1198.72
+Homogeneity is: 0.720993
+Completeness is: 0.516957
+V_measure is: 0.602161
+Number of Clusters: 233
+
+ Time spent for inserting 200 1304.68
+Homogeneity is: 0.731473
+Completeness is: 0.522377
+V_measure is: 0.60949
+Number of Clusters: 234
+
+ Time spent for inserting 200 2251.84
+Homogeneity is: 0.72974
+Completeness is: 0.515325
+V_measure is: 0.60407
+Number of Clusters: 249
+
+ Time spent for inserting 200 809.36
+Homogeneity is: 0.717898
+Completeness is: 0.514368
+V_measure is: 0.599325
+Number of Clusters: 234
+
+../rgbdeval_full/rgbd21_13.dat
+../rgbdeval_full/label_13.dat
+current file:13
+ Time spent for inserting 200 811.015
+Homogeneity is: 0.730521
+Completeness is: 0.517779
+V_measure is: 0.606022
+Number of Clusters: 247
+
+ Time spent for inserting 200 816.715
+Homogeneity is: 0.730028
+Completeness is: 0.517917
+V_measure is: 0.605946
+Number of Clusters: 246
+
+ Time spent for inserting 200 820.915
+Homogeneity is: 0.736421
+Completeness is: 0.520114
+V_measure is: 0.60965
+Number of Clusters: 251
+
+ Time spent for inserting 200 843.77
+Homogeneity is: 0.746746
+Completeness is: 0.519995
+V_measure is: 0.613076
+Number of Clusters: 269
+
+ Time spent for inserting 200 874.03
+Homogeneity is: 0.747501
+Completeness is: 0.521164
+V_measure is: 0.614143
+Number of Clusters: 267
+
+../rgbdeval_full/rgbd21_14.dat
+../rgbdeval_full/label_14.dat
+current file:14
+ Time spent for inserting 200 904.98
+Homogeneity is: 0.74896
+Completeness is: 0.521133
+V_measure is: 0.614613
+Number of Clusters: 272
+
+ Time spent for inserting 200 941.47
+Homogeneity is: 0.753811
+Completeness is: 0.522599
+V_measure is: 0.617264
+Number of Clusters: 278
+
+ Time spent for inserting 200 971.605
+Homogeneity is: 0.755386
+Completeness is: 0.522405
+V_measure is: 0.617656
+Number of Clusters: 282
+
+ Time spent for inserting 200 1005.91
+Homogeneity is: 0.748978
+Completeness is: 0.517541
+V_measure is: 0.612114
+Number of Clusters: 284
+
+ Time spent for inserting 200 1043.94
+Homogeneity is: 0.755364
+Completeness is: 0.522852
+V_measure is: 0.617961
+Number of Clusters: 281
+
+../rgbdeval_full/rgbd21_15.dat
+../rgbdeval_full/label_15.dat
+current file:15
+ Time spent for inserting 200 1115.43
+Homogeneity is: 0.760866
+Completeness is: 0.523118
+V_measure is: 0.619981
+Number of Clusters: 292
+
+ Time spent for inserting 200 1130.96
+Homogeneity is: 0.769841
+Completeness is: 0.525841
+V_measure is: 0.624866
+Number of Clusters: 301
+
+ Time spent for inserting 200 1217.45
+Homogeneity is: 0.766061
+Completeness is: 0.523511
+V_measure is: 0.621976
+Number of Clusters: 303
+
+ Time spent for inserting 200 1282.52
+Homogeneity is: 0.768723
+Completeness is: 0.523703
+V_measure is: 0.622988
+Number of Clusters: 306
+
+ Time spent for inserting 200 1223.86
+Homogeneity is: 0.76526
+Completeness is: 0.523787
+V_measure is: 0.621906
+Number of Clusters: 300
+
+../rgbdeval_full/rgbd21_16.dat
+../rgbdeval_full/label_16.dat
+current file:16
+ Time spent for inserting 200 1329.49
+Homogeneity is: 0.764467
+Completeness is: 0.519231
+V_measure is: 0.618424
+Number of Clusters: 311
+
+ Time spent for inserting 200 1447.38
+Homogeneity is: 0.76893
+Completeness is: 0.523523
+V_measure is: 0.622928
+Number of Clusters: 309
+
+ Time spent for inserting 200 1442.96
+Homogeneity is: 0.772974
+Completeness is: 0.524623
+V_measure is: 0.625032
+Number of Clusters: 315
+
+ Time spent for inserting 200 1556.35
+Homogeneity is: 0.78193
+Completeness is: 0.526338
+V_measure is: 0.629167
+Number of Clusters: 327
+
+ Time spent for inserting 200 1468.08
+Homogeneity is: 0.78072
+Completeness is: 0.526116
+V_measure is: 0.628616
+Number of Clusters: 327
+
+../rgbdeval_full/rgbd21_17.dat
+../rgbdeval_full/label_17.dat
+current file:17
+ Time spent for inserting 200 1508.86
+Homogeneity is: 0.779908
+Completeness is: 0.524064
+V_measure is: 0.626887
+Number of Clusters: 331
+
+ Time spent for inserting 200 5725.28
+Homogeneity is: 0.78452
+Completeness is: 0.524155
+V_measure is: 0.628437
+Number of Clusters: 341
+
+ Time spent for inserting 200 1516.36
+Homogeneity is: 0.784569
+Completeness is: 0.522768
+V_measure is: 0.627455
+Number of Clusters: 351
+
+ Time spent for inserting 200 1521.36
+Homogeneity is: 0.784644
+Completeness is: 0.522296
+V_measure is: 0.627139
+Number of Clusters: 350
+
+ Time spent for inserting 200 1592.7
+Homogeneity is: 0.78161
+Completeness is: 0.520348
+V_measure is: 0.624766
+Number of Clusters: 353
+
+../rgbdeval_full/rgbd21_18.dat
+../rgbdeval_full/label_18.dat
+current file:18
+ Time spent for inserting 200 1791.85
+Homogeneity is: 0.782851
+Completeness is: 0.52127
+V_measure is: 0.625827
+Number of Clusters: 352
+
+ Time spent for inserting 200 2519.41
+Homogeneity is: 0.784113
+Completeness is: 0.520465
+V_measure is: 0.625648
+Number of Clusters: 355
+
+ Time spent for inserting 200 1809.52
+Homogeneity is: 0.786703
+Completeness is: 0.519673
+V_measure is: 0.625897
+Number of Clusters: 368
+
+ Time spent for inserting 200 1829.14
+Homogeneity is: 0.794999
+Completeness is: 0.521458
+V_measure is: 0.62981
+Number of Clusters: 381
+
+ Time spent for inserting 200 1784.1
+Homogeneity is: 0.795433
+Completeness is: 0.521179
+V_measure is: 0.629742
+Number of Clusters: 384
+
+../rgbdeval_full/rgbd21_19.dat
+../rgbdeval_full/label_19.dat
+current file:19
+ Time spent for inserting 200 1964.26
+Homogeneity is: 0.789085
+Completeness is: 0.519514
+V_measure is: 0.626534
+Number of Clusters: 374
+
+ Time spent for inserting 200 1863.46
+Homogeneity is: 0.793687
+Completeness is: 0.520643
+V_measure is: 0.628804
+Number of Clusters: 379
